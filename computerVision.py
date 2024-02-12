@@ -1,5 +1,3 @@
-# Abgabe von Valentino Giorgio Pino, Matr.Nr.: 2225371
-
 # Die Funktionen wurden mithilfe von den Bibliotheken von Python, OpenCV geschrieben, außerdem wurde das Wissen
 # aus der Vorlesung/Übung angewendet und schlussendlich für einige Hilfestellungen ChatGPT/Phind genutzt
 
